@@ -1,0 +1,15 @@
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task35\bin\Debug\net6.0\Task35.exe
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task35\bin\Debug\net6.0\Task35.deps.json
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task35\bin\Debug\net6.0\Task35.runtimeconfig.json
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task35\bin\Debug\net6.0\Task35.dll
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task35\bin\Debug\net6.0\Task35.pdb
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task35\obj\Debug\net6.0\Task35.csproj.AssemblyReference.cache
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task35\obj\Debug\net6.0\Task35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task35\obj\Debug\net6.0\Task35.AssemblyInfoInputs.cache
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task35\obj\Debug\net6.0\Task35.AssemblyInfo.cs
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task35\obj\Debug\net6.0\Task35.csproj.CoreCompileInputs.cache
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task35\obj\Debug\net6.0\Task35.dll
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task35\obj\Debug\net6.0\refint\Task35.dll
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task35\obj\Debug\net6.0\Task35.pdb
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task35\obj\Debug\net6.0\Task35.genruntimeconfig.cache
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task35\obj\Debug\net6.0\ref\Task35.dll

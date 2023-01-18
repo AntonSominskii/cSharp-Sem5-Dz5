@@ -1,0 +1,15 @@
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task34\bin\Debug\net6.0\Task34.exe
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task34\bin\Debug\net6.0\Task34.deps.json
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task34\bin\Debug\net6.0\Task34.runtimeconfig.json
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task34\bin\Debug\net6.0\Task34.dll
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task34\bin\Debug\net6.0\Task34.pdb
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task34\obj\Debug\net6.0\Task34.csproj.AssemblyReference.cache
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task34\obj\Debug\net6.0\Task34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task34\obj\Debug\net6.0\Task34.AssemblyInfoInputs.cache
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task34\obj\Debug\net6.0\Task34.AssemblyInfo.cs
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task34\obj\Debug\net6.0\Task34.csproj.CoreCompileInputs.cache
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task34\obj\Debug\net6.0\Task34.dll
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task34\obj\Debug\net6.0\refint\Task34.dll
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task34\obj\Debug\net6.0\Task34.pdb
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task34\obj\Debug\net6.0\Task34.genruntimeconfig.cache
+C:\Users\kkkk\Desktop\VC\VCseminar1\.vscode\DzSem5\Task34\obj\Debug\net6.0\ref\Task34.dll
